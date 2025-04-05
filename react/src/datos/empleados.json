@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "cargo": "Desarrollador Frontend",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "cargo": "Diseñadora UX/UI",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "López",
+      "cargo": "Scrum Master",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Lucía",
+      "apellido": "Martínez",
+      "cargo": "QA Tester",
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Diego",
+      "apellido": "Ramírez",
+      "cargo": "Desarrollador Backend",
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Sofía",
+      "apellido": "Fernández",
+      "cargo": "Product Owner",
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Miguel",
+      "apellido": "Torres",
+      "cargo": "Analista de Datos",
+      "activo": false
+    },
+    {
+      "id": 8,
+      "nombre": "Camila",
+      "apellido": "Reyes",
+      "cargo": "Marketing Digital",
+      "activo": true
+    },
+    {
+      "id": 9,
+      "nombre": "Pedro",
+      "apellido": "Castillo",
+      "cargo": "Administrador de Sistemas",
+      "activo": false
+    },
+    {
+      "id": 10,
+      "nombre": "Valentina",
+      "apellido": "Morales",
+      "cargo": "Líder de Proyecto",
+      "activo": true
+    }
+  ]
+  
